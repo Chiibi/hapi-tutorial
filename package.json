@@ -1,0 +1,12 @@
+{
+  "name": "hapi-tutorial",
+  "version": "1.0.0",
+  "description": "Demo code for hapi tutorial",
+  "main": "index.js",
+  "repository": "https://github.com/Chiibi/hapi-tutorial.git",
+  "author": "Chiibi",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/hapi": "^19.1.1"
+  }
+}
